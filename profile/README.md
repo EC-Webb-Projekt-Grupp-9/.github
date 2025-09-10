@@ -14,6 +14,7 @@ Ceremonier: Daily standup, Parprogrammering, Sprint planering, Kod granskning
 
 ## Tekniska standards
 Verktyg: Visual studio, Jetbrains, VS Code, Github, Github Projects
+Platform: MVC, Api/React, Blazor ???? 
 Kod-regler:
 
 Konfliktlösning
