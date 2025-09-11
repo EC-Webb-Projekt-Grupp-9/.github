@@ -55,6 +55,6 @@ Platform: React + API
 - OM INGET annat fungerar så -> Sten Sax Påse
 
 
-> [! Created]
+> [!Note]
 > Skapad: 250910
 > Senast uppdaterad: 250911
