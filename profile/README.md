@@ -1,21 +1,51 @@
 # Teammanifest - [Projektnamn]
+
 Våra värderingar
-Punkt 1
-Punkt 2
+- Individer och Interaktioner över processer och verktyg
+- Fungerande Programvara över omfattande dokumentation
+- Kundsamarbete över kontraktsförhandling
+- Att Reagera på Förändring över att följa en plan
+
+## Principer:
+-  Kundtillfredsställelse genom tidig och kontinuerlig leverans
+-  Välkomna förändrade krav
+-  Leverera fungerande programvara ofta
+-  Affärsfolk och utvecklare arbetar tillsammans
+-  Bygg projekt runt motiverade individer
+-  Ansikte mot ansikte-kommunikation
+-  Fungerande programvara som mått på framsteg
+-  Hållbar utvecklingstakt
+-  Teknisk excellens och bra design
+-  Enkelhet är viktigt
+-  Självorganiserande team
+-  Reflektion och anpassning
 
 ## Kommunikation
-Platform: Discord, Teams, Github
-Mötestider: xx:xx
+Platform: Främst Discord, men också Teams och Github
+Mötestider: 10:00
 
 ## Arbetssätt
 Metod: SCRUM
-Sprint-längd: 1v
-Ceremonier: Daily standup, Parprogrammering, Sprint planering, Kod granskning
+Sprint-längd: 1 vecka
+Ceremonier: 
+- Daily standup
+- Daglig individuell dokumentation
+- Parprogrammering
+- Sprint planering
+- Kod granskning
+
+## Vad betyder "klart" för vårt team
+En user story är klar när:
+- Koden är skriven och testad
+- Koden är granskad av minst en annan utvecklare
+- Automatiska tester körs och passerar
+- Funktionaliteten är testad av produktägaren
+- Dokumentation är uppdaterad
+- Koden är deployad till testmiljö
 
 ## Tekniska standards
 Verktyg: Visual studio, Jetbrains, VS Code, Github, Github Projects
-Platform: MVC, Api/React, Blazor ???? 
-Kod-regler:
+Platform: React + API
 
 Konfliktlösning
 Vad gör vi när... sten sax påse
