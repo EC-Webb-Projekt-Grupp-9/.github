@@ -47,8 +47,14 @@ En user story är klar när:
 Verktyg: Visual studio, Jetbrains, VS Code, Github, Github Projects
 Platform: React + API
 
-Konfliktlösning
-Vad gör vi när... sten sax påse
+## Konfliktlösning
+- Vi adresserar konflikter tidigt och direkt
+- Vi fokuserar på problemet, inte personen
+- Vi söker win-win lösningar
+- Vi eskalerar till scrum master/teamledare när det behövs
+- OM INGET annat fungerar så -> Sten Sax Påse
 
-Skapad: 250910
-Senast uppdaterad: 250910
+
+> [! Created]
+> Skapad: 250910
+> Senast uppdaterad: 250911
