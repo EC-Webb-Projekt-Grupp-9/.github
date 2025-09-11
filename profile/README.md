@@ -44,8 +44,15 @@ En user story är klar när:
 - Koden är deployad till testmiljö
 
 ## Tekniska standards
-Verktyg: Visual studio, Jetbrains, VS Code, Github, Github Projects
-Platform: React + API
+### Verktyg: 
+- Visual studio
+- Jetbrains
+- VS Code
+- Github
+- Github Projects
+  
+### Platform: 
+- React + API
 
 ## Konfliktlösning
 - Vi adresserar konflikter tidigt och direkt
