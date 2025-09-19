@@ -27,7 +27,7 @@ Mötestider: 10:00
 ## Arbetssätt
 Metod: SCRUM
 Sprint-längd: 1 vecka
-SCRUM Master / PR merge: Roger Dennis och Rida
+SCRUM Master / PR merge: Roger Dennis och Ridah
 Ceremonier: 
 - Daily standup
 - Daglig individuell dokumentation
